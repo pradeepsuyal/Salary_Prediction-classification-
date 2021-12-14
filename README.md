@@ -167,8 +167,9 @@ for more information you can refer to [seaborn](https://seaborn.pydata.org/) off
 
 **Dashboard:**<a name="dashboard"></a>
 ------
-
 ![89c3c877-3d86-468c-8dbf-550266936181](https://user-images.githubusercontent.com/86251750/145842396-b3f3eeeb-ad4b-4caa-89ae-350e0bb3c7b2.gif)
+
+dashboard uploaded at [tableau](https://public.tableau.com/app/profile/pradeep7347/viz/salarypredictiondashboard/adultsalarypredictionDashboard)
 
 **Screenshots from notebook**
 
